@@ -23,10 +23,10 @@ Berikut bukti bahwa program berjalan **100% berhasil** di Termux Android.
 Setiap screenshot menunjukkan proses **server menerima koneksi**, **client mengirim data**, dan **respons diterima dengan benar** ✅  
 
 <p align="center">
-  <img src="run_termux/Screenshot_20251020-1.jpg" width="45%" style="margin:5px; border-radius:12px;">
-  <img src="run_termux/Screenshot_20251020-2.jpg" width="45%" style="margin:5px; border-radius:12px;">
-  <img src="run_termux/Screenshot_20251020-3.jpg" width="45%" style="margin:5px; border-radius:12px;">
-  <img src="run_termux/Screenshot_20251020-4.jpg" width="45%" style="margin:5px; border-radius:12px;">
+  <img src="run_termux/Screenshot_20251020-105403.jpg" width="45%" style="margin:5px; border-radius:12px;">
+  <img src="run_termux/Screenshot_20251020-105356.jpg" width="45%" style="margin:5px; border-radius:12px;">
+  <img src="run_termux/Screenshot_20251020-105237.jpg" width="45%" style="margin:5px; border-radius:12px;">
+  <img src="run_termux/Screenshot_20251020-104343.jpg" width="45%" style="margin:5px; border-radius:12px;">
 </p>
 
 ---
